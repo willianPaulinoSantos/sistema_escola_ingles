@@ -11,4 +11,4 @@ class PessoaController {
     }
 }
 
-module.exports = PessoaController
+module.exports = PessoaController   
